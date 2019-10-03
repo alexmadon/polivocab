@@ -107,6 +107,7 @@
 
 > preferować
 < préférer
+> preferuję, preferujesz, preferuje, preferujemy, preferujecie, preferują
 
 
 > mam nadzieje, że ci smakowala. Mam nadzieję, że ci się podobało.
@@ -185,12 +186,30 @@
 > uczę się, uczysz się, uczy się, uczymy się, uczycie się, uczą się
 
 
-> bezokolicznik, czas teraźniejszy, czas przeszły, tryb rozkazujący
-< infinitif, temps présent, passé, impératif
+> bezokolicznik, czas teraźniejszy, czas przeszły, czas przyszły, tryb rozkazujący
+< infinitif, temps présent, passé, le futur, impératif
 
 > Uczę się polskiego
 < j'apprend le polonais
 
+> Dlaczego uczysz się polskiego?
+< Pourquoi apprends-tu le polonais?
+
+> A jak się uczysz? Sam?
+< Comment tu apprends ? Seul ?
+
+
+> zobaczyć
+< voir     (zo- +‎ baczyć)
+> zobaczę, zobaczysz, zobaczy , zobaczymy, zobaczycie, zobaczą
+
+
+> zobaczymy za tydzień co umiesz
+< nous verrons dans une semaine ce que vous pouvez faire
+
+> baczyć
+< voir  from Proto-Slavic *obačiti, Compare perfective zobaczyć. Related to oko. 
+> baczę, baczysz, baczy, baczymy, baczycie, baczą
 
 > dać
 < donner
@@ -236,6 +255,15 @@
 < lire
 > czytam, czytasz, czyta, czytamy, czytacie, czytają
 
+> Czytam książkę.
+< je lis un livre
+
+
+> Bardzo lubię czytać.
+< J'aime beaucoup lire.
+
+> Proszę przeczytać.
+< S'il vous plaît lire.
 
 > rysować
 < dessiner
@@ -287,7 +315,7 @@
 
 > robić
 < faire
-< robię, robisz, robi, robimy, robicie, robią
+> robię, robisz, robi, robimy, robicie, robią
 
 
 > grać
@@ -374,15 +402,16 @@ cent, deux cents, trois cents, quatre cents, cinq cents, six cents, sept cents, 
 < bisous
 
 
-przytulam Cię
+> przytulam Cię
+< Je t'embrasse
+
+> Alexa nie widać
+< Alex ne peut pas être vu
+
+> napisałam
+< j'ai écrit
 
 
-Alexa nie widać
-
-napisałam
-j'ai écrit
-
-lire
 
 dessiner
 
@@ -392,7 +421,9 @@ dessiner
 < adorer
 > uwielbiam, uwielbiasz, uwielbia, uwielbiamy, uwielbiacie, uwielbiają
 
-jestem szczęśliwa
+> jestem szczęśliwa
+< Je suis heureuse
+
 
 Kocham mojego Alexa.?
 
@@ -556,6 +587,10 @@ delicieux
 
 > brzuch, skrzynia
 < le ventre, la poitrine
+
+> oko, oko, oka, okiem, oku, oko, oczy, oczy, oczu, oczom, oczami, oczyma, oczach, oczy
+< l'oeil, les yeux
+
 
 la chanson
 
@@ -790,3 +825,539 @@ radość i łzy
 
 > pół
 < moitié
+
+
+> Cztery pory roku.
+< les quatres saisons
+
+
+> wiosna, lato, jesień, zima,
+< printemps, été, automne, hiver
+
+
+> pragnąć
+< désirer
+> pragnę, pragniesz, pragnie, pragniemy, pragniecie, pragną
+
+
+> Marek bardzo pragnie mieć dziecko.
+
+> To jego pomysł.
+
+> On pragnie być Tatą.
+
+> Nie ma dziecka.
+
+> Chce ze mną mieć dziecko.
+
+> To on wzbudził u mnie taki pomysł by posiadać dziecko.
+
+> To niesamowite!
+< c'est incroyable
+
+
+> On jest kawalerem a ja panną.
+
+
+
+
+
+> dawno, dawno temu
+< il était une fois (il y a longtemps de cela), temu= datif sing de to et ten
+
+> Jak dawno temu?
+< Il y a combien de temps
+
+> Dwie godziny temu.
+< Il y a deux heures
+
+
+> wolny, wolność
+< libre, liberté (vouloir, liberté, EN:well, FE:wohl)
+
+
+> pomoc
+< aide (po- qui indique une idée de suite et de moc "force").
+
+> moc
+< force (Du vieux slave "mog" qui est à rapprocher de l’indo-européen commun "maghti" qui a donné Macht en allemand, might en anglais (tous deux : « puissance »).)
+
+
+> pomóc
+< aider
+> pomogę, pomożesz, pomoże, pomożemy, pomożecie, pomogą
+
+> Możesz mi pomóc?
+< Tu peux m'aider
+
+
+> pytać
+< demander
+
+
+> jasny blond
+< blond clair
+
+
+> ciemny blond
+< blond foncé
+
+
+> rodzina
+< famille
+
+> dziecko
+< enfant (IE dʰeh₁(y)- suck, see filius)
+
+> rozwiedziony
+< divorcé
+
+> rozwód
+< divorce
+
+> zawód
+< profession
+
+> rozwodnik, rozwódka
+une homme divorcé, une femme divorcée rozwód (“divorce”) +‎ -nik. 
+
+> wieść
+< conduire (? wedding)
+
+
+
+> rozwieść się
+< divorcer, se démarier
+	
+> rozwodzić się
+< divorcer, pérorer, insister
+
+
+> radość
+< joie
+
+> Jestem szczęśliwa zawsze i wszędzie!
+< Je suis heureuse toujours et partout!
+
+
+> Szukaj dalej przyjaciela.
+< Continuez à chercher un ami.
+
+
+> Twoje uczucia już znalazły lokatę.
+< Vos sentiments ont déjà trouvé une place.
+
+> Gdybyś chciał ze mną coś stworzyć bardzo byś mnie skrzywdził.
+< Si tu voulais créer quelque chose avec moi, tu me ferais beaucoup de mal.
+
+> Sama jestem silna
+< seule je suis forte
+
+
+
+
+> czerpię radość z życia.
+< je profite de la vie.
+
+
+> Jednym słowem: kobieta
+< en un mot: une femme
+
+
+> strona główna
+< page d'accueil
+
+
+> Dodaj Fotografie
+< ajouter des photos
+
+
+> świat
+< monde (cf white, weiß= blanc, lumière)
+
+
+> chce mieć chłopaka
+< je veux avoir un petit ami 
+
+> czy odległość to przeszkoda , chce mieć prawdziwego przyjaciela na dobre i czasem złe chwile .
+< si la distance est un obstacle, je veux avoir un vrai ami pour les bons et parfois les mauvais moments.
+
+> Nie wiem czy widziałeś
+< je ne sais pas si tu as vu
+
+> jeśli chcesz
+< si tu veux
+
+> Nie jesteś za stary
+< Tu n'es pas trop vieux
+
+> drzewo
+< arbre (cf  EN:tree)
+
+> drewno
+< le bois (matériau)
+
+> drewniany
+< en bois
+
+
+> przyjaciel, Nieprzyjaciel
+< ami, ennemi
+
+
+
+> Nieprzyjaciel przyszedł do naszego kraju.
+< L'ennemi est venu dans notre pays.
+
+
+> Zwyczajnie nie wiem, co powiedzieć
+< Je ne sais pas quoi dire
+
+> kraj
+< pays
+
+> w podróży po kraju
+< voyager à travers le pays
+
+> Ukraina
+< Ukraine From Old East Slavic ѹкраина (ukraina), from оу (u, “at”) + краи (krai, “edge”), or край (kraj, “land”).
+
+> Mieszkam na Ukrainie.
+< J'habite en Ukraine 
+
+> u
+< at  u (+ genitive)
+
+> Uczę się polskiego z kilku powodów:
+< J'apprends le polonais pour plusieurs raisons:
+
+
+
+
+> ja też
+< moi aussi
+
+
+> Znak zodiaku:	Waga
+< signe diu zodiac: balance
+
+
+> Wzrost:	160
+< taille: 160cm
+
+
+> Jestem katolikiem, Jestem katoliczką
+< je suis catholique (masc), je suis catholique (fem)
+
+
+
+
+
+> dla mnie ważny jest ślub, bo chce przystępować do komunii, ale możemy po prostu czasem porozmawiać, zaprzyjaźnić się.
+
+
+
+> Życzę Ci miłego, udanego dnia
+
+
+> Poznałam kogoś, nie wiem jak to się rozwinie.
+< J'ai rencontré quelqu'un, je ne sais pas comment cela va se développer.
+
+
+> próbowałeś do mnie zadzwonić
+< tu as essayé de m'appeler
+
+
+
+
+
+Faceta z klasą i kasą.
+Un gars avec classe et argent.
+> A ja już w łóżku
+< Et je suis déjà au lit
+
+
+> nauczyciel, nauczyć, uczyć
+< enseignant, ensigner (pf), enseigner (impf)
+< De nauczyć +‎ -ciel. 
+< nauczyć = Verbe dérivé de uczyć się avec le préfixe na-.
+
+
+Ja nie szukam nikogo.
+Je ne cherche personne.
+
+Wiem że i tak będę sama.
+Je sais que je serai seul de toute façon.
+
+
+Wiem także że nigdy nie przestanę o Tobie myśleć i tęsknić za Tobą.
+Je sais aussi que je ne cesserai jamais de penser à toi et que tu me manques.
+
+
+
+Tęsknię za tobą
+tu me manques
+
+
+Piosenka Jesiki pod tytułem "Wytatuowany w sercu".
+La chanson de Jesiki "Tatoué dans le coeur".
+
+Takie właśnie słowa kieruję do Ciebie.
+Ce sont les mots que je vous adresse.
+
+
+Alex ja do końca miałam nadzieję że Ty jednak przyjedziesz.
+Alex jusqu'à la fin j'ai eu espoir que vous viendrez quand même.
+
+koniec
+la fin, le bout
+Jak teraz żyć?
+
+Jak do cholery?
+
+> Jak żyć samotnie?
+Comment vivre seul
+
+> Dziękuję za czułe słowa.
+
+> Powoli zaczynam uśmiechać się na nowo.
+lentement je commence  à sourire à nouveau.
+
+> Jeszcze nieśmiało, przez łzy, ale uśmiecham się.
+Encore timidement, à travers les larmes, mais je souris.
+
+
+> Bardzo brakowało mi Twojego uczucia, Twoich pocałunków, Tęskniłam za tym i za Tobą.
+
+
+> martwić
+< se préoccuper (cf FR;: la mort)
+> martwię, martwisz, martwi, martwimy, martwicie, martwią 
+
+
+> Alex nic się nie martw
+< Alex, ne t'inquiète pas
+
+> Alex nic się nie martw, ja Ciebie nauczę po Polsku, a Ty mnie po Francusku, damy rade się dogadac
+< Alex, ne t'inquiète pas, je t'apprendrai en polonais et tu m'apprendras en français, nous pourrons nous entendre
+
+
+> bać się
+< avoir peur (cf ES:feo=laid)
+> boję się, boisz się, boi się, boimy się, boicie się, boją się
+
+
+> cierpię, cierpisz, cierpi, cierpimy, cierpicie , cierpią 
+> cierpieć
+souffrir
+
+> Cierpiałem bardzo
+j'ai beaucoup souffert
+
+
+> żartować
+plaisanter, blaguer
+> żartuję, żartujesz, żartuje, żartujemy, żartujecie, żartują 
+
+> zazdrość
+jalousie
+
+> Czy jesteś zazdrosna?
+< tu es jalouse?
+
+
+> Niech moc będzie z tobą! –
+< May the force be with you!
+
+
+> Niech cię Bóg błogosławi. –
+< God bless you.
+
+
+> Niech no pomyślę...
+< Let me think...
+
+
+> Niech zgadnę... ty jesteś John?
+< Let me guess... you must be John?
+
+> ser
+< fromage (cf sour)
+
+> kubek
+< tasse (cubo, cubeta)
+
+
+> ołów, ołówek
+< plomb, crayon à papier
+
+
+> ze
+< avec
+
+> viens avec moi
+< chodź ze mną
+
+
+> ten program jest kompatybilny z Windows
+< ce programme est compatible avec windows
+
+> patrzeć
+< regarder
+> patrzę, patrzysz, patrzy, patrzymy, patrzycie, patrzą
+
+> Patrzę na Twoje zdjęcie
+< je regarde votre photo
+
+> Zawsze gdy patrzę na Twoje zdjęcie serce bije mi szybciej.
+< Chaque fois que je regarde votre photo, mon cœur bat plus vite.
+
+> szybko, szybciej, najszybciej
+< vite, plus vite, le plus vite
+
+> bić
+< battre (cf beat)
+> biję , bijesz, bije, bijemy, bijecie, biją 
+
+
+
+> No to jak ona sobie wyobraża żyć?
+< Eh bien, comment imagine-t-elle vivre
+
+
+
+> Trzeba być optymistą, żeby nie zwariować w tym swiecie
+< Il faut être optimiste pour ne pas devenir fou dans ce monde
+
+
+> Tutaj na obczyźnie Polacy są zupełnie inni.
+< Ici, à l'étranger, les Polonais sont complètement différents.
+
+
+> Co jeszcze chciałbyś o mnie wiedzieć. Pytaj śmiało.
+
+
+> Pozdrawiam serdecznie i buziaki ślę
+
+> słać
+< envoyer
+> ślę, ślesz, śle, ślemy, ślecie, ślą
+
+
+
+
+aspekt dokonany
+pefecttif, parfait, fait
+
+
+aspekt niedokonany
+imparfait, imperfectif
+
+
+wysłać
+aspekt dokonany od: wysyłać
+
+
+czas przyszły prosty
+futur simple
+
+czas przeszły
+le passé
+
+
+perfectif: trouver, sortir, naître, atteindre, mourir
+imperfectif: chercher, marcher, manger, chanter, vivre
+
+Les procès statiques (avoir, connaître, demeurer, etc.) ne contiennent donc ni l'aspect perfectif ni l'aspect imperfectif, mais l'aspect statique.
+
+mourir/mourir d'envie
+l'enfant tombe/la pluie tombe
+
+
+
+
+En polonais et en russe, par exemple, un verbe perfectif ne possède pas de présent ; à l'inverse, le futur d'un verbe imperfectif passe par un temps composé (ancienne périphrase construite sur l'auxiliaire être). 
+
+            Imperfectif Perfectif
+infinitif   robić       zrobić
+infinitif   faire       faire
+
+passé 	    robiłem     zrobiłem
+passé       je faisais  je fis
+
+présent     robię
+présent     je fais 	—
+
+futur 	będę robić, będę robił                     zrobię
+futur   je ferai (je serai en train de faire)       je ferai
+
+
+
+> deszcz
+< pluie (*dus-di̯us bad day, dé-cielé)
+
+
+> padać
+< tomber (impf) pleuvoir
+> padam, padasz, pada, padamy, padacie, padają
+
+
+> Wiatru już nie ma, ale cały dzień pada deszcz.
+< Le vent est parti, mais il pleut toute la journée.
+
+
+> umieć
+< savoir (cf audio)
+> umiem, umiesz, umie, umiemy, umiecie, umieją 
+< présent
+
+> umiałem, umiałeś, umiał, umieliśmy, umieliście, umieli
+
+< passé masc
+
+> będę umiał, będziesz umiał, będzie umiał, będziemy umiali, będziecie umiali, będą umieli 
+< future (participe)
+
+> Obiecałeś mi, że za rok będziesz umiał Język polski 
+< Vous m'aviez promis que vous seriez capable de parler polonais l'année prochaine
+
+
+> trzymać
+< tenir 
+> trzymam, trzymasz, trzyma, trzymamy, trzymacie, trzymają
+
+> tego musimy się trzymać.
+< nous devons nous y tenir.
+
+
+
+
+> Cały czas uśmiecham się do ciebie.
+< Tout le temps je te souris.
+
+> Wspaniałego dnia życzę
+< Je souhaite une magnifique jounée.
+
+
+
+> Na Pewno ma być prawdomówny, bo kłamstwem się brzydzę...
+< Bien sûr, ça doit être vrai, parce que je dégoûte du mensonge ... 
+
+
+> znosić
+< supporter
+> znoszę, znosisz, znosi, znosimy, znosicie, znoszą 
+
+> Nie znoszę zdrady
+< je ne supporte pas la trahison
+
+
+zdrada
+trahison
+
+zdradzać
+trahir
+zdradzam 	zdradzasz 	zdradza 	zdradzamy 	zdradzacie 	zdradzają
+
+rada
+conseil (Germ: rat)
